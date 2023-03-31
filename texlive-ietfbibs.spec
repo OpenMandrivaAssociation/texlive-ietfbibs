@@ -1,6 +1,6 @@
 Name:		texlive-ietfbibs
 Version:	41332
-Release:	1
+Release:	2
 Summary:	Generate BibTeX entries for various IETF index files
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ietfbibs
