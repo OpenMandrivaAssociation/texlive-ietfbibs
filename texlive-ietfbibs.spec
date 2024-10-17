@@ -3,7 +3,7 @@ Version:	41332
 Release:	2
 Summary:	Generate BibTeX entries for various IETF index files
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/ietfbibs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/ietfbibs
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ietfbibs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/ietfbibs.doc.r%{version}.tar.xz
